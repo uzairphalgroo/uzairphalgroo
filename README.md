@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Uzair<br><br>🎓 Computer Science student<br><br>🔐 Interested in Cybersecurity, Networking, Web Desiging , Web Development, and Automation<br><br>🛠️ Working on hands-on projects and continuous upskilling<br><br>🌱 Always learning new technologies<br><br>💼 Open to new job opportunities, internships, and collaborations
+👋 Hi, I’m Uzair<br><br>🎓 Computer Science student<br><br>🔐 Interested in Cybersecurity, Networking, Web Designing , Web Development, and Automation<br><br>🛠️ Working on hands-on projects and continuous upskilling<br><br>🌱 Always learning new technologies<br><br>💼 Open to new job opportunities, internships, and collaborations
 
 
 ## 🌐 Socials:
